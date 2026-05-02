@@ -486,7 +486,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Kaloqns USB splitter.kicad_pro",
+    "filename": "USB splitter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -522,7 +522,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Production/Gerbers USB spplitter/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -641,8 +641,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Kaloqns USB splitter.kicad_sch",
-        "name": "Root",
+        "filename": "USB splitter.kicad_sch",
+        "name": "USB splitter",
         "uuid": "a3dab0fb-5392-4e4f-bd6c-a875adb7b7ec"
       }
     ],
